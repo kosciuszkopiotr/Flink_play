@@ -1,0 +1,6 @@
+FlinkTraining/.idea/
+FlinkTraining/target/
+FlinkTraining/*.iml
+FlinkTraining/*.ipr
+FlinkTraining/*.iws
+python_training/.idea/
